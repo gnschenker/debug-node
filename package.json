@@ -1,0 +1,16 @@
+{
+  "name": "debug-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jasmine-node spec",
+    "start": "node server.js"
+  },
+  "author": "Gabriel Schenker",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  }
+}
